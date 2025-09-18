@@ -36,9 +36,9 @@ Pueden investigar otros modelos para mejorar la performance de los modelos. Por 
 
 ## Fecha de entrega
 
-📅 Viernes 20 de Septiembre a las 23:59hs.
+📅 ABD: 28/9, CE: 2/10
 
-Se debe entregar un notebook llamado `apellido1_apellido2_apellido3_(ABD/CEF).ipynb` en el siguiente [Google Forms](https://forms.gle/uojD9eTPsn2XyQ1A6) el Notebook con el análisis realizado.
+Se debe entregar un notebook llamado `apellido1_apellido2_apellido3_(ABD/CE).ipynb` en el siguiente [Google Forms](https://forms.gle/9Ko9zgWeFq8coYVx9) el Notebook con el análisis realizado.
 
 ## Links Útiles
 
